@@ -1,7 +1,7 @@
 <?php
 class Order{
 	//config property
-	public $google_key = 'AIzaSyDtXdLrpezUmH4FH7DCmZXW0jfoIrKLf5Q';
+	public $google_key = 'Put in google api key';
 	
     // database properties
     private $conn;
