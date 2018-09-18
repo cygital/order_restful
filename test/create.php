@@ -1,5 +1,5 @@
 <?php
-$url = "http://localhost/challenge/lalamove/solution/order.php";
+$url = "http://localhost/solution/order.php";
 $data = array(
 	'origin'=>array(40.6655101, -73.67098),
 	'destination'=>array(40.6905615, -73.976592), 	
