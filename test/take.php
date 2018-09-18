@@ -1,5 +1,5 @@
 <?php
-$url = "http://localhost/challenge/lalamove/solution/updateorder.php?id=1";
+$url = "http://localhost/solution/updateorder.php?id=1";
 $data = array(
 	'status'=>'taken' 	
 );
