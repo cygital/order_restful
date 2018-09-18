@@ -1,5 +1,5 @@
 <?php
-$url = "http://localhost/challenge/lalamove/solution/orders.php?page=1&limit=10";
+$url = "http://localhost/solution/orders.php?page=1&limit=10";
 
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
